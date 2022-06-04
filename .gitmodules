@@ -1,0 +1,6 @@
+[submodule "third_party/hnz"]
+	path = third_party/hnz
+	url = https://github.com/Hennzau/hnz
+[submodule "third_party/hnz-ecs"]
+	path = third_party/hnz-ecs
+	url = https://github.com/Hennzau/hnz-ecs
